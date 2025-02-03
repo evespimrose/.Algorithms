@@ -15,9 +15,7 @@
 </p>
 
 ## 📚 Current Focus
-<p align="center">
-  <a href="https://www.acmicpc.net/problem/1926"><img src="https://img.shields.io/badge/BOJ_1926-00599C?style=flat-square&logo=TheAlgorithms&logoColor=white"/></a>
-</p>
+
 
 ## 🏃‍♂️ Problem Solving
 ### 🏅 Difficulty Stats
