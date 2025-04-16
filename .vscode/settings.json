@@ -31,7 +31,13 @@
     "regex": "cpp",
     "valarray": "cpp",
     "iosfwd": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "utility": "cpp",
+    "system_error": "cpp",
+    "type_traits": "cpp",
+    "xlocmon": "cpp",
+    "xtr1common": "cpp",
+    "xutility": "cpp"
   },
   "files.exclude": {
     "**/build": false
